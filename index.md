@@ -21,7 +21,7 @@ My research interests center around single-cell genomics, machine learning, and 
 
 - I am a [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) reader who tends to collect more books than I could ever finish.
 
-- Here a list of books, which I finished and would like to recommend to friends. (Coming Soon)
+- Here is a list of books, which I finished and would like to recommend to friends. (Coming Soon)
 
 ## Writing
 
