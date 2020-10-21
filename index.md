@@ -25,6 +25,6 @@ My research interests center around single-cell genomics, machine learning, and 
 
 ## Writing
 
-I have a [Medium Blog](https://medium.com/@dakuang) to take notes on my reflections and explorations.
+I have a [Medium Blog](https://kuangda-derek.medium.com/) to take notes on my reflections and explorations.
 
 <!-- ## Miscellaneous -->
