@@ -1,6 +1,6 @@
 # Da (Derek) Kuang, 匡达
 
-Da Kuang is a second year Ph.D. student in the Department of [Computer and Information Science](https://www.cis.upenn.edu/graduate/program-offerings/doctoral-program/), University of Pennsylvania, advised by Professor [Junhyong Kim](https://kim.bio.upenn.edu/).
+I am a second year Ph.D. student in the Department of [Computer and Information Science](https://www.cis.upenn.edu/graduate/program-offerings/doctoral-program/), University of Pennsylvania, advised by Professor [Junhyong Kim](https://kim.bio.upenn.edu/).
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kuang-da/)
 &nbsp;
@@ -8,7 +8,7 @@ Da Kuang is a second year Ph.D. student in the Department of [Computer and Infor
 
 ## Research
 
-My research interest focus on single-cell genomics, machine learning, and information retrieval.
+My research interests center around single-cell genomics, machine learning, and information retrieval.
 
 ## Projects
 
