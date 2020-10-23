@@ -28,4 +28,8 @@ My research interests center around single-cell genomics, machine learning, and 
 
 I have a [Medium Blog](https://kuangda-derek.medium.com/) to take notes on my reflections and explorations.
 
-<!-- ## Miscellaneous -->
+## Miscellaneous
+
+I have a small side project to organize some interesting historical milstones in different field on the same timeline. I may consider adding some visualizaiton but now it just a Google Sheet.
+
+[Timeline of Modern Biology, Computer, Art and Cosmology](https://docs.google.com/spreadsheets/d/1dFRQXresyYnc8_tpHwBzEQT7OuX9X8xwgPHoWQIPgfs/edit?usp=sharing)
