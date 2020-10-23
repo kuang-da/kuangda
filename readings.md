@@ -16,6 +16,7 @@ I am working on a [reading list of Single-cell genomics](https://github.com/kuan
 
 Besides that, there are some instructive materials for good research,
 
+- [Can a biologist fix a radio?—Or, what I learned while studying apoptosis](https://doi.org/10.1016/S1535-6108(02)00133-2)
 - [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510)
 
 ## Computer Science
