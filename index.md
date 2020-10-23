@@ -14,7 +14,7 @@ My research interests center around single-cell genomics, machine learning, and 
 
 - 2019 - 2020, Resistant Fit Normalization for Single-cell RNA Sequencing Data.
 - 2018 - 2019, Consensus Analysis to Identify Novel Gene Candidates in T Cell Differentiation.
-- 2017 - 2018, Identify differential chromatin interactions in Hi-C data with triplet network HiCComp
+- 2017 - 2018, Identify differential chromatin interactions in Hi-C data with triplet convolutional neural network HiCComp
 
 ## Reading
 
