@@ -32,4 +32,4 @@ I have a [Medium Blog](https://kuangda-derek.medium.com/) to take notes on my re
 
 I have a small side project to organize some interesting historical milstones in different field on the same timeline. I may consider adding some visualizaiton but now it just a Google Sheet.
 
-[Timeline of Modern Biology, Computer, Art and Cosmology](https://docs.google.com/spreadsheets/d/1dFRQXresyYnc8_tpHwBzEQT7OuX9X8xwgPHoWQIPgfs/edit?usp=sharing)
+[Timeline of Modern Biology, Computer Science, Art and Cosmology](https://docs.google.com/spreadsheets/d/1dFRQXresyYnc8_tpHwBzEQT7OuX9X8xwgPHoWQIPgfs/edit?usp=sharing)
