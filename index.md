@@ -16,6 +16,10 @@ My research interests center around single-cell genomics, machine learning, and 
 - 2018 - 2019, Consensus Analysis to Identify Novel Gene Candidates in T Cell Differentiation.
 - 2017 - 2018, Identify differential chromatin interactions in Hi-C data with triplet convolutional neural network HiCComp
 
+## Talks and Presentations
+
+- [Journal Clubs](journal-clubs.md)
+
 ## Reading
 
 - While there is much great material on StackOverflow and Medium to pick up new skills, I still believe reading books is one of the best ways to be an expert.
