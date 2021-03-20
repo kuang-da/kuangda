@@ -22,11 +22,9 @@ My research interests center around single-cell genomics, machine learning, and 
 
 ## Reading
 
-- While there is much great material on StackOverflow and Medium to pick up new skills, I still believe reading books is one of the best ways to be an expert.
+- I am working on a [reading list of Single-cell genomics](https://publish.obsidian.md/single-cell-papers/README).
 
-- I am a [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) reader who tends to collect more books than I could ever finish.
-
-- Here is a [list of readings](readings.md), which I finished and would like to recommend to friends.
+- I am a [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) reader who tends to collect more books than I could ever finish. Here is a [list of my book collection](https://www.notion.so/e510f753fbeb4c7fab65aae19e22d073?v=f8b214cd7f584da5b7d3846f40224cae).
 
 ## Writing
 
